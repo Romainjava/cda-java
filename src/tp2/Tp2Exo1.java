@@ -13,6 +13,8 @@ public class Tp2Exo1 {
 		int entier_2 = user.nextInt();
 		
 		System.out.println("Voici la somme des deux valeurs"+ (entier_1 + entier_2) + "et voici le produit"+ (entier_1 * entier_2));
+	
+	user.close();
 	}
 
 }
