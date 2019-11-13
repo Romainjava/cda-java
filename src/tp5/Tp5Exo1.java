@@ -6,7 +6,7 @@ public class Tp5Exo1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int tab_user[] = new int[5];
+		//int tab_user[] = new int[5];
 		
 		/* === COMMENTER POUR LA CORRECTION ====
 		for (int i = 0; i < tab_user.length; i++) {
