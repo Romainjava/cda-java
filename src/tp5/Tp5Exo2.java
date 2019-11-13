@@ -3,8 +3,8 @@ package tp5;
 public class Tp5Exo2 {
 
 	public static void main(String[] args) {
-		int mat_1[][] = { {1,2,3,4,5,5},{1,2,3,4,5,5},{1,2,3,4,5,5},{1,2,3,4,5,5},{1,2,3,4,5,5},{1,2,3,4,5,5}}; 
-		int mat_2[][] = { {1,2,3},{1,2,3},{1,2,3},{1,2,3},{1,2,3},{1,2,3} };
+		int mat_1[][] = { {1,2,3,4},{5,4,3,2}}; 
+		int mat_2[][] = { {2,1},{1,5},{6,5},{1,1}};
 		int produit_matrice[][] = new int[mat_1.length][mat_2[0].length];
 		System.out.println(mat_1[0].length +"+"+ mat_2.length);
 
