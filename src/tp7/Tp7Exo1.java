@@ -11,7 +11,7 @@ public class Tp7Exo1 {
 	}
 
 	public static void main(String[] args) {
-
+		System.out.println("voici le calcul de la surface de 5 : "+ surface(5)+ " et le calcul du perimetre de 5 "+ perimetre(5));
 	}
 
 }
